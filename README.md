@@ -6,7 +6,7 @@
 
 [Paper PDF](main_text.pdf)
 
-![](Fig3.png)
+![](figure.png)
 
 <table>
 <colgroup>
