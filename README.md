@@ -1,4 +1,5 @@
 <div align="center">
+
 ## Multispectral Semantic Segmentation for Autonomous Vehicles: Optimizing Detector Weights As A Function of Daytime and Visibility
 
 ### Francesco Mastrocinque     
